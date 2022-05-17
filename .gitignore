@@ -1,0 +1,4 @@
+# Project exclude paths
+/ChainOfResponsibility/target/
+/Mediator/target/
+/Observer/target/
